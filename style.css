@@ -16,11 +16,13 @@ body {
   margin: 0;
 }
 
-.movie-container {
+.movie-container,
+.theater-container {
   margin: 20px 0;
 }
 
-.movie-container select {
+.movie-container select,
+.theater-container select {
   background-color: white;
   border: 0;
   border-radius: 5px;
